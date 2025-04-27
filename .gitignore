@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+transformer_env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development
+.env
+
+# Testing
+.coverage
+htmlcov/
+
+# OS specific
+.DS_Store
